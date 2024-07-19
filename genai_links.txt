@@ -1,0 +1,10 @@
+https://github.com/SkalskiP/courses
+https://course.fast.ai/Lessons/lesson1.html
+https://www.linkedin.com/posts/thomas-hoffmann-dataexpert_ai-machinelearning-deeplearning-activity-7216705258687770624-UGtU?utm_source=share&utm_medium=member_android
+https://github.com/GoogleCloudPlatform/generative-ai/blob/main/RESOURCES.md
+
+Advanced: Generative AI for Developers Learning Path : https://www.cloudskillsboost.google/paths/183
+
+Machine Learning Engineer Learning Path : https://www.cloudskillsboost.google/paths/17
+
+Getting started : https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/getting-started
