@@ -4,7 +4,10 @@ https://www.linkedin.com/posts/thomas-hoffmann-dataexpert_ai-machinelearning-dee
 https://github.com/GoogleCloudPlatform/generative-ai/blob/main/RESOURCES.md
 
 Advanced: Generative AI for Developers Learning Path : https://www.cloudskillsboost.google/paths/183
-
 Machine Learning Engineer Learning Path : https://www.cloudskillsboost.google/paths/17
+Generative AI for Developers : https://partner.cloudskillsboost.google/paths/165
+Introduction to Generative AI : https://partner.cloudskillsboost.google/paths/119
 
 Getting started : https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/getting-started
+
+https://cloud.google.com/blog/topics/developers-practitioners/meet-ais-multitool-vector-embeddings
